@@ -1,0 +1,59 @@
+body {
+    background-color: #120b21;
+}
+
+header p {
+    color: white;
+}
+
+h1 {
+    display: flex;
+    color: white;
+}
+
+.hello p {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    max-width: 100%;
+    padding-left: 20rem;
+    padding-right: 1.25rem;
+    font-family: "Times New Roman", serif;
+    color: white;
+}
+
+.intro {
+    font-family: "Times New Roman", serif;
+    color: white;
+    margin: 20px
+}
+
+.semester ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.bachelor button {
+
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    border: 3px;
+    display: block;
+    padding: 10px;
+}
+
+.info {
+    font-family: "Times New Roman", serif;
+    color: white;
+    margin: 20px;
+}
+
+footer {
+    color: white;
+}
