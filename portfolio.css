@@ -6,6 +6,14 @@ header p {
     color: white;
 }
 
+header ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 800px;
+    color: white;
+    list-style: none;
+}
+
 h1 {
     display: flex;
     color: white;
